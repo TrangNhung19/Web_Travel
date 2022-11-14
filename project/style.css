@@ -268,7 +268,8 @@ form button:hover{
 
 .service-row{
     margin-top: 40px;
-    
+    display: flex;
+    justify-content: space-between;
 }
 .service-item{
     width: 30%;
@@ -283,6 +284,8 @@ form button:hover{
    box-shadow: 2px 2px 10px black;
 }
 .service-item img{
-    width: 270px;
+    width: 280px;
     margin-bottom: 3px;
+    
 }
+/*-----Tour-----*/
