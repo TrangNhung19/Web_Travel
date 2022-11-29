@@ -16,7 +16,7 @@
         padding: 20px;
         margin: 0 auto;
         font-weight: 700px;
-        background-color: url("../image/about.jpg");
+        background: url("../image/about.jpg");
         font-size: 16px;
 
     }
