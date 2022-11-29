@@ -17,8 +17,8 @@
             <ul>
                 <li style="--x:1;"><a href="">Trang chủ</a></li>
                 <li style="--x:2;"><a href="asset/product1.php" >Du lịch Miền Bắc</a></li>
-                <li style="--x:3;"><a href="asset/product3.html">Du lịch Miền Trung </a></li>
-                <li style="--x:4;"><a href="asset/product2.html">Du lịch Miền Nam </a></li>
+                <li style="--x:3;"><a href="asset/product5.html">Du lịch Miền Trung </a></li>
+                <li style="--x:4;"><a href="asset/product3.html">Du lịch Miền Nam </a></li>
                 <li style="--x:4;"><a href="asset/product4.html">Tour Nghỉ Lễ</a></li>
                 <li style="--x:5;"><a href="asset/login/index.php">Đăng nhập</a></li>
             </ul>
