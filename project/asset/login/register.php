@@ -5,17 +5,34 @@
 
 </head>
 <style>
+    * {
+        font-family: cursive;
+        box-sizing: padding-box;
+    }
+
     .form {
- width: 300px;
- border: 1px solid green;
- padding: 20px;
- margin: 0 auto;
- font-weight: 700px;
-}
-.form input {
- width: 100%;
- padding: 10px 0;
-}
+        width: 300px;
+        border: 1px solid black;
+        padding: 20px;
+        margin: 0 auto;
+        font-weight: 700px;
+        background-color: url("../image/about.jpg");
+        font-size: 16px;
+
+    }
+
+    h2 {
+        text-align: center;
+        margin-bottom: 40px;
+    }
+
+    .form input {
+        width: 100%;
+        padding: 10px 0;
+        margin: 10px 0;
+        display: block;
+        border-radius: 5px;
+    }
 </style>
 
 <body>
