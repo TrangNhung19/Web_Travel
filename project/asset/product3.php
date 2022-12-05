@@ -16,35 +16,26 @@
 
     <div id="wrapper">
         <div id="header">
-            <a href="" class="logo">
-                <img src="png/logo.png" alt="">
-            </a>
+           
             <div id="menu">
                 <div class="item">
-                    <a href="../index.html">Trang chủ</a>
+                    <a href="../trangchu.php">Trang chủ</a>
                 </div>
                 <div class="item">
-                    <a href="product1.html">Du lịch miền Bắc</a>
+                    <a href="product1.php">Du lịch miền Bắc</a>
                 </div>
                 <div class="item">
-                    <a href="product2.html">Du lịch miền Trung</a>
+                    <a href="product2.php">Du lịch miền Trung</a>
                 </div>
                 <div class="item">
-                    <a href="product3.html">Du lịch miền Nam</a>
+                    <a href="product3.php">Du lịch miền Nam</a>
                 </div>
                 <div class="item">
-                    <a href="product4.html">Tour nghỉ Lễ</a>
+                    <a href="product4.php">Tour nghỉ Lễ</a>
                 </div>
                 
             </div>
-            <div id="actions">
-                <div class="item">
-                    <img src="png/user.png" alt="">
-                </div>
-                <div class="item">
-                    <img src="png/cart.png" alt="">
-                </div>
-            </div>
+            
         </div>
         <div id="banner">
             <div class="box-left">
@@ -67,7 +58,7 @@
             <h2>SẢN PHẨM CỦA CHÚNG TÔI</h2>
             <ul id="list-products">
                 <div class="item">
-                    <a href="tab/Phanthiet.html">
+                    <a href="tab/Phanthiet.php">
                         <img src="../image/phanthiet.jpg" alt="">
                         <div class="stars">
                             <span>
