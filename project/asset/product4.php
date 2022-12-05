@@ -17,23 +17,23 @@
     <div id="wrapper">
         <div id="header">
             <a href="" class="logo">
-                <img src="png/logo.png" alt="">
+                <img src="../png/logo.png" alt="">
             </a>
             <div id="menu">
                 <div class="item">
-                    <a href="../index.html">Trang chủ</a>
+                    <a href="../trangchu.php">Trang chủ</a>
                 </div>
                 <div class="item">
-                    <a href="product1.html">Du lịch miền Bắc</a>
+                    <a href="product1.php">Du lịch miền Bắc</a>
                 </div>
                 <div class="item">
-                    <a href="product2.html">Du lịch miền Trung</a>
+                    <a href="product2.php">Du lịch miền Trung</a>
                 </div>
                 <div class="item">
-                    <a href="product3.html">Du lịch miền Nam</a>
+                    <a href="product3.php">Du lịch miền Nam</a>
                 </div>
                 <div class="item">
-                    <a href="product4.html">Tour nghỉ Lễ</a>
+                    <a href="product4.php">Tour nghỉ Lễ</a>
                 </div>
                 
             </div>
@@ -53,7 +53,7 @@
                     <br>
                     <span>NGHỈ LỄ</span>
                 </h2>
-                <p>Miền Bắc là nơi khởi nguồn văn hóa ngàn năm văn hiến của dân tộc Việt Nam. Du lịch miền Bắc du khách sẽ được khám phá những thắng cảnh thiên nhiên đẹp mê hồn cùng nhiều công trình kiến trúc ấn tượng được tạo nên bởi bàn tay khéo léo của con người. </p>
+                <p>Tour nghỉ lễ là lựa chọn hoàn hảo dành cho du khách có nhu cầu đi du lịch cùng bạn bè, đồng nghiệp và gia đình trong những dịp nghỉ lễ tết hằng năm. Hãy đồng hành với Luxtour khám phá thêm về tour nghỉ lễ qua bài viết dưới đây để có những trải nghiệm tuyệt vời trong kì nghỉ nhé!</p>
                 
             </div>
             <div class="box-right">
@@ -67,7 +67,7 @@
             <h2>SẢN PHẨM CỦA CHÚNG TÔI</h2>
             <ul id="list-products">
                 <div class="item">
-                    <a href="tab/Caobang.html">
+                    <a href="tab/Binhchau.php">
                         <img src="../image/caobang.jpg" alt="">
                         <div class="stars">
                             <span>
@@ -87,9 +87,9 @@
                             </span>
                         </div>
 
-                        <div class="name">Du lịch Hà Nội-Cao Bằng </div>
+                        <div class="name">Suối nước nóng Bình Châu </div>
                         <div class="desc">Mô Tả Ngắn Cho tour</div>
-                        <div class="price">2.790.000 VNĐ</div>
+                        <div class="price">1.790.000 VNĐ</div>
                         </div>
 
                     </a>
@@ -113,9 +113,9 @@
                         </span>
                     </div>
 
-                    <div class="name">Du lịch Hạ Long</div>
+                    <div class="name">Khu Du Lịch Thủy Châu</div>
                     <div class="desc">Mô Tả Ngắn Cho Sản Phẩm</div>
-                    <div class="price">500.000 VNĐ</div>
+                    <div class="price">1.990.000 VNĐ</div>
                 </div>
 
 
@@ -139,12 +139,12 @@
                         </span>
                     </div>
 
-                    <div class="name">du lịch</div>
+                    <div class="name">Du lịch Suối Mơ</div>
                     <div class="desc">Mô Tả Ngắn Cho Sản Phẩm</div>
-                    <div class="price">500.000 VNĐ</div>
+                    <div class="price">1.690.000 VNĐ</div>
                 </div>
                 <div class="item">
-                    <img src="../image/Ban Gioc 2.jpg" alt="">
+                    <img src="../image/phanthiet5.jpg" alt="">
                     <div class="stars">
                         <span>
                             <img src="png/star.png" alt="">
@@ -163,9 +163,9 @@
                         </span>
                     </div>
 
-                    <div class="name">du lịch</div>
+                    <div class="name">Thác Giang Điền</div>
                     <div class="desc">Mô Tả Ngắn Cho Sản Phẩm</div>
-                    <div class="price">500.000 VNĐ</div>
+                    <div class="price">1.990.000 VNĐ</div>
                 </div>
 
                 <div class="item">
@@ -188,9 +188,9 @@
                         </span>
                     </div>
 
-                    <div class="name">Phenikaa-uni</div>
+                    <div class="name">Vịnh Vĩnh Hy</div>
                     <div class="desc">Mô Tả Ngắn Cho Sản Phẩm</div>
-                    <div class="price">500.000 VNĐ</div>
+                    <div class="price">1.890.000 VNĐ</div>
                 </div>
 
                 <div class="item">
@@ -213,11 +213,12 @@
                         </span>
                     </div>
 
-                    <div class="name">Du lịch Hà Nội</div>
+                    <div class="name">Bà Nà Hills</div>
                     <div class="desc">Mô Tả Ngắn Cho Sản Phẩm</div>
                     <div class="price">2.790.000 VNĐ</div>
                 </div>
             </ul>
+            
             <div class="list-page">
                 <div class="item">
                     <a href="">1</a>
@@ -233,7 +234,7 @@
                 </div>
             </div>
         </div>
-
+    
         <div id="saleoff">
             <div class="box-left">
                 <h1>
