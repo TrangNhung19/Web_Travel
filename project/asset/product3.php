@@ -111,7 +111,7 @@
 
 
                 <div class="item">
-                    <img src="../image/condao.jfif" alt="">
+                    <img src="../image/phuquoc.jpg" alt="">
                     <div class="stars">
                         <span>
                             <img src="png/star.png" alt="">
