@@ -7,12 +7,12 @@ Website Du lịch
   - Đối tượng phục vụ: khách hàng có nhu cầu đi du lịch theo tour
   - Dịch vụ bao gồm: điểm du lịch, dịch vụ lưu trú, dịch vụ ăn uống, vui chơi giải trí, thông tin về tour, mức giá của tour du lịch sẽ được đưa tới khách hàng khi tham gia chương trình
   - Các nhóm đối tượng:
-    ✔	Khách hàng
-    ✔	Hướng dẫn viên (tour guide)
-    ✔	Tổ chức quản lý tour du lịch
+    -   Khách hàng
+    -   Hướng dẫn viên (tour guide)
+    -   Tổ chức quản lý tour du lịch
   - Nhóm khách hàng:
-    ✔	Khách du lịch nội địa.
-    ✔	Khách du lịch công vụ (hoạt động hội đồng theo công ty)
+    -   Khách du lịch nội địa.
+    -   Khách du lịch công vụ (hoạt động hội đồng theo công ty)
 
 - Loại Website: Website giới thiệu về công ty du lịch, giới thiệu tour, đặt tour du lịch
 
