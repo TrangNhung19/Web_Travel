@@ -3,6 +3,17 @@ Website Du lịch
 
 - Lợi ích Thiết kế website du lịch: Khách truy cập website dễ dàng tìm thấy cái họ cần, không phải mất nhiều thời gian để trả lời thắc mắc khách hàng. Cấu trúc website được thiết kế chuyên nghiệp, tiện dụng và dễ sự dung nhất cho khách hàng. Website hiển thị danh sách tour du lịch theo các vùng miền hoặc loại hình khác nhau. Hiển thị thông tin, hình ảnh mô tả chi tiết về Tour Du lịch bạn cần cung cấp cho khách hàng. Hệ thống quản trị web tiện dụng, đơn giản, dễ sử dụng giúp quản lý web, cập nhật tour, hình ảnh một cách dễ dàng, nhanh chóng.
 
+- Giới thiệu tổng quan về ý tưởng và dự án. 
+  - Đối tượng phục vụ: khách hàng có nhu cầu đi du lịch theo tour
+  - Dịch vụ bao gồm: điểm du lịch, dịch vụ lưu trú, dịch vụ ăn uống, vui chơi giải trí, thông tin về tour, mức giá của tour du lịch sẽ được đưa tới khách hàng khi tham gia chương trình
+  - Các nhóm đối tượng:
+    ✔	Khách hàng
+    ✔	Hướng dẫn viên (tour guide)
+    ✔	Tổ chức quản lý tour du lịch
+  - Nhóm khách hàng:
+    ✔	Khách du lịch nội địa.
+    ✔	Khách du lịch công vụ (hoạt động hội đồng theo công ty)
+
 - Loại Website: Website giới thiệu về công ty du lịch, giới thiệu tour, đặt tour du lịch
 
 - Những tính năng cơ bản:
@@ -32,11 +43,6 @@ TOUR DU LỊCH
 - Các module hỗ trợ như: Nhóm tour, danh sách tour, chi tiết tour, tour trong nước, tour nước ngoài, tour theo địa danh tỉnh thành...
 - Khách hàng sẽ cung cấp các thông tin đầy của mình vào form đặt tour du lịch, nó sẽ được lưu vào database của doanh nghiệp.
 
-KHÁCH SẠN
-- Phân nhóm, phân cấp không hạn chế khách sạn theo tỉnh thành, sao, tên, giá...
-- Các module hỗ trợ như: Danh sách khách sạn theo tỉnh thành, khách sạn đang khuyến mại, chi tiết khách sạn
-- Khách hàng sẽ cung cấp các thông tin đầy của mình vào form đặt khách sạn, nó sẽ được lưu vào database của doanh nghiệp.
-
 GIỚI THIỆU
 - Thông tin giới thiệu công ty, lịch sử hình thành, giá trị cốt lõi, tầm nhìn sứ mệnh,...
 - Thông tin tour du lịch
@@ -52,8 +58,8 @@ TÌM KIẾM
 - Tìm kiếm theo: bài viết, tour, khách sạn...
 
 QUẢN TRỊ WEBSITE
-- Quản lý thông tin: Giới thiệu, Địa chỉ liên hệ, Tầm nhìn sứ mệnh...
-- Quản lý Hỗ trợ trực tuyến, Quảng cáo.
-- Quản lý Tin tức, Tour.
-- Quản lý Đặt tour.
+- Quản lý thông tin Website: Giới thiệu, Địa chỉ liên hệ, Tầm nhìn sứ mệnh...
+- Quản lý thông tin nội bộ: Nhân viên, Khách hàng, Tour, Đặt tour và Thanh toán.
+- Quản lý Hỗ trợ trực tuyến, Tư vấn khách hàng, Quảng cáo.
+- Quản lý Đánh giá, Blog, Top sale...
 
